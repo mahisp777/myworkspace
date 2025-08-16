@@ -1,1 +1,4 @@
 Self practice for git fetch
+FROM SCRACH
+to
+Master
