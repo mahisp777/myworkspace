@@ -1,0 +1,1 @@
+Writing directly from github to learn about git fetch functinality. 
